@@ -12,6 +12,11 @@ const projects = [
     description: "Description of project 2",
     image: "/project2.jpg", // Update the path to your thumbnail image
   },
+  {
+    title: "Project 3",
+    description: "Description of project 3",
+    image: "/project3.jpg", // Update the path to your thumbnail image
+  },
   // Add more projects as needed
 ];
 
